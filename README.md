@@ -1,4 +1,3 @@
-# SQL Study & Interview Notes
-
-## learning Flow
-## Interview Questation & Answer
+# Note (数据分析师养成）
+  ## Data Base Study
+   ### 01. SQL Notes
