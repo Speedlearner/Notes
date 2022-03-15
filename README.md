@@ -1,1 +1,1 @@
-# Notes
+# SQL Study & Interview Notes
